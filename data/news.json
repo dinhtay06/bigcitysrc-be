@@ -1,0 +1,23 @@
+[
+  {
+    "category": "THẾ GIỚI / PREVIEW 01",
+    "title": "Khi màn đêm buông xuống",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=800&q=80",
+    "alt": "Ánh đèn thành phố trong đêm",
+    "body": "Big City lên đèn khi màn đêm buông xuống. Một cuốc xe qua trung tâm có thể đưa bạn từ những tòa nhà sáng rực đến các con phố nhỏ, nơi câu chuyện thật sự bắt đầu."
+  },
+  {
+    "category": "ĐƯỜNG PHỐ / PREVIEW 02",
+    "title": "Mỗi chiếc xe, một cá tính",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=800&q=80",
+    "alt": "Xe thể thao trên đường",
+    "body": "Góc dành cho những người mê xe. Kể câu chuyện về chiếc xe đầu tiên, khoe bản độ và tìm những người bạn cùng đam mê."
+  },
+  {
+    "category": "CỘNG ĐỒNG / PREVIEW 03",
+    "title": "Câu chuyện bắt đầu từ bạn",
+    "image": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=800&q=80",
+    "alt": "Toàn cảnh đô thị về đêm",
+    "body": "Chọn xuất thân và mục tiêu cho nhân vật. Tạo mối quan hệ qua những tình huống nhập vai và để các lựa chọn của bạn định hình câu chuyện."
+  }
+]
